@@ -9,4 +9,4 @@ We have created our first GitHub repository in this lab, and have clone our GitH
 
 This lab also include some commmit and push method with git. 
 
-<img src="">
+<img src="lab-07.png">
